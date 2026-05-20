@@ -44,6 +44,13 @@ Moazer enables students to:
 ## Wireframes
 
 📄 [View Wireframes (PDF)](./docs/Wireframes.pdf)
+ 
+ ## 🖼️ Project Interfaces
+
+<div align="center">
+
+<img src="Moazer/main/static/images/UIs.png" alt="Home Page" width="500" />
+<br /><br />
 
 ## Tech Stack
 
